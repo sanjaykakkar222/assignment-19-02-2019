@@ -1,4 +1,4 @@
-let myarray=[
+var myarray=[
     {
       "userId": 1,
       "id": 1,
